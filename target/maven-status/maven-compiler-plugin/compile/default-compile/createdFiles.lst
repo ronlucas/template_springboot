@@ -1,0 +1,7 @@
+com/lron/template/entities/ExampleData.class
+com/lron/template/TemplateApplication.class
+com/lron/template/config/TemplateConfig.class
+com/lron/template/dao/ExampleDataDAO.class
+com/lron/template/entities/EntityWIthUUID.class
+com/lron/template/service/TemplateService.class
+com/lron/template/controller/TemplateController.class
